@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uni-clone/static/css/main.858a9cdf.css",
+    "main.js": "/uni-clone/static/js/main.7d163b82.js",
+    "index.html": "/uni-clone/index.html",
+    "main.858a9cdf.css.map": "/uni-clone/static/css/main.858a9cdf.css.map",
+    "main.7d163b82.js.map": "/uni-clone/static/js/main.7d163b82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.858a9cdf.css",
+    "static/js/main.7d163b82.js"
+  ]
+}
